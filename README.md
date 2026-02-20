@@ -2,14 +2,10 @@
 <img align='right' src="https://c.tenor.com/wO3KAyeQWgoAAAAd/tenor.gif" width="330">
 
 Hi, I'm a final year computer engineering student . 
-- I am currently learning **Cybersecurity Pentesting** with some **Cryptography**, **DevOps**, and some **Frontend Frameworks**.
+- 🛡️ I am currently learning **Cybersecurity Pentesting** with some **Cryptography**, **DevOps**, and some **Frontend Frameworks**.
 - 🐍 **Javascript** and **Python** owner
 - 🎬 Fan of **Game of Thrones** and **Mr. Robot**
 - 🎮 **League of Legends** abuser
-
-
-
-
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript  

@@ -1,5 +1,5 @@
-# <img src="C:/Users/ncibi/Desktop/fma-transparent.gif" width="30"/> Hi there!
-<img align='right' src="C:/Users/ncibi/Desktop/yuta-yuta-okkotsu.gif" width="330">
+# <img src="![C:/Users/ncibi/Desktop/fma-transparent.gif](https://media.tenor.com/b2q4FVKVIYYAAAAj/fma-transparent.gif)" width="30"/> Hi there!
+<img align='right' src="https://c.tenor.com/wO3KAyeQWgoAAAAd/tenor.gif" width="330">
 
 Hi, I am currently learning **Cybersecurity Pentesting** with some **Cryptography**, **DevOps**, and some **Frontend Frameworks**.
 

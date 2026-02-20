@@ -1,13 +1,21 @@
 # <img src="https://media.tenor.com/b2q4FVKVIYYAAAAj/fma-transparent.gif" width="30"/> Hi there!
-<img align='right' src="https://c.tenor.com/wO3KAyeQWgoAAAAd/tenor.gif" width="330">
 
-Hi, I'm a final year computer engineering student . 
-- 🛡️ I am currently learning **Cybersecurity Pentesting** with some **Cryptography**, **DevOps**, and some **Frontend Frameworks**.
-- 🐍 **Javascript** and **Python** owner
-- 🎬 Fan of **Game of Thrones** and **Mr. Robot**
-- 🎮 **League of Legends** abuser
- 
-<br clear='right'>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      Hi, I'm a final year computer engineering student . 
+      <ul>
+        <li>🛡️ I am currently learning <b>Cybersecurity Pentesting</b> with some <b>Cryptography</b>, <b>DevOps</b>, and some <b>Frontend Frameworks</b>.</li>
+        <li>🐍 <b>Javascript</b> and <b>Python</b> owner</li>
+        <li>🎬 Fan of <b>Game of Thrones</b> and <b>Mr. Robot</b></li>
+        <li>🎮 <b>League of Legends</b> abuser</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://c.tenor.com/wO3KAyeQWgoAAAAd/tenor.gif" width="330">
+    </td>
+  </tr>
+</table>
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript  
 

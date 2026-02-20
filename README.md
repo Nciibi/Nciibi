@@ -73,5 +73,5 @@ const user = {
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/nciibi/nciibi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Nciibi/Nciibi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>

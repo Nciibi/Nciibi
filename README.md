@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      Hi, I'm a final year computer engineering student . 
+      Hi, I'm a second year computer engineering student . 
       <ul>
         <li>🛡️ I am currently learning <b>Cybersecurity Pentesting</b> with some <b>Cryptography</b>, <b>DevOps</b>, and some <b>Frontend Frameworks</b>.</li>
         <li>🐍 <b>Javascript</b> and <b>Python</b> owner</li>

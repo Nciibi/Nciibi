@@ -10,7 +10,7 @@
         <li>🎬 Fan of <b>Game of Thrones</b> and <b>Mr. Robot</b></li>
         <li>🎮 <b>League of Legends</b> abuser</li>
       </ul>
-    </td>
+    </td> 
     <td valign="top" width="40%">
       <img src="https://c.tenor.com/wO3KAyeQWgoAAAAd/tenor.gif" width="330">
     </td>

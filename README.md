@@ -11,7 +11,7 @@
         <li>🎮 <b>League of Legends</b> abuser</li>
       </ul>
     </td> 
-    <td valign="top" width="40%">
+    <td valign="top" width="40%"> 
       <img src="https://c.tenor.com/wO3KAyeQWgoAAAAd/tenor.gif" width="330">
     </td>
   </tr>

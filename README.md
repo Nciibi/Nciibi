@@ -55,7 +55,7 @@ const user = {
 <p align="left">
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
   <img src="https://img.shields.io/badge/mysql-%23000.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
 </p> 
 

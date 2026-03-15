@@ -5,8 +5,8 @@
     <td valign="top" width="60%">
       Hi, I'm a second year computer engineering student . 
       <ul>
-        <li>🛡️ I am currently learning <b>Cybersecurity Pentesting</b> with some <b>Cryptography</b>, <b>DevOps</b>, and some <b>Frontend Frameworks</b>.</li>
-        <li>🐍 <b>Javascript</b> and <b>Python</b> owner</li>
+        <li>🛡️ I am currently learning <b>Cybersecurity Pentesting</b> with some <b>Cryptography</b>, <b>DevOps</b>, and a bit of  <b>Frontend Frameworks</b>.</li>
+        <li>🐍 <b>Javascript</b> and <b>Python</b> maniac</li>
         <li>🎬 Fan of <b>Game of Thrones</b> and <b>Mr. Robot</b></li>
         <li>🎮 <b>League of Legends</b> abuser</li>
       </ul>

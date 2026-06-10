@@ -9,7 +9,7 @@
         <li>🐍 <b>Javascript</b> and <b>Python</b> maniac</li>
         <li>🎬 Fan of <b>Game of Thrones</b> and <b>Mr. Robot</b></li>
         <li>🎮 <b>League of Legends</b> abuser</li>
-      </ul>   
+      </ul>    
     </td> 
     <td valign="top" width="40%"> 
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9tM3dyenlrOWpwbTZucWVpdHFoMjJsdm43cG93ZGV4NGliamp2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uMh6oTj5Srz9PPGrrw/giphy.gif" width="330">

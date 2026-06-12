@@ -1,6 +1,6 @@
 # <img src="https://media.tenor.com/b2q4FVKVIYYAAAAj/fma-transparent.gif" width="30"/> Hi there!                                                                                       
     
-<table>            
+<table>             
   <tr>
     <td valign="top" width="60%"> 
       Hi, I'm a second year computer engineering student .  

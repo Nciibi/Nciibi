@@ -19,7 +19,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true
           path: .github/assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |

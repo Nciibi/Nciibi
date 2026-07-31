@@ -27,6 +27,7 @@ jobs:
             token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
             filename: .github/assets/metrics-stats.svg
             base: header, activity, community, repositories
+            repositories_affiliations: owner
             config_timezone: Asia/Dhaka
 
         - name: Activity Calendar

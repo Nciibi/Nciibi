@@ -1,73 +1,99 @@
-# <img src="https://media.tenor.com/b2q4FVKVIYYAAAAj/fma-transparent.gif" width="30"/> Hi there!                                                                                       
-    
-<table>             
+<img align='right' width="260" src='.github/assets/kenkankei_cmp.png'>
+
+<p align="center">
+  <br/><br/>
+  <img src='https://count.getloli.com/@Nciibi?name=Nciibi&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
+  <img src=".github/assets/stats.svg" width="400px"/>
+  <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=nciibi&count_private=true&theme=midnight-purple&hide_border=true" width="400px"/>
+  <img width="400px" src=".github/assets/metrics-stats.svg" />
+  <img width="400px" src=".github/assets/metrics-repository.svg" />
+  <img width="400px" src=".github/assets/metrics-activity.svg" />
+</p>
+
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=Nciibi&theme=high-contrast&hide_border=true&area=true" />
+<br clear="both" />
+
+---
+
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+
+<table align="center">
   <tr>
-    <td valign="top" width="60%"> 
-      Hi, I'm a second year computer engineering student .  
-      <ul>
-        <li>🛡️ I am currently learning <b>Cybersecurity Pentesting</b> with some <b>Cryptography</b>, <b>DevOps</b>, and a bit of  <b>Frontend Frameworks</b>.</li>
-        <li>🐍 <b>Javascript</b> and <b>Python</b> maniac</li>
-        <li>🎬 Fan of <b>Game of Thrones</b> and <b>Mr. Robot</b></li>
-        <li>🎮 <b>League of Legends</b> abuser</li>
-      </ul>    
-    </td> 
-    <td valign="top" width="40%"> 
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9tM3dyenlrOWpwbTZucWVpdHFoMjJsdm43cG93ZGV4NGliamp2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uMh6oTj5Srz9PPGrrw/giphy.gif" width="330">
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="express" />
     </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="express" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="notion" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="PostgreSQL" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="gitlab" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+    </td>
+    <!-- <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="Nodejs" />
+    </td> -->
   </tr>
 </table>
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-```javascript
-const user = {
-    code: ["Javascript", "TypeScript", "Python", "C", "C++", "PHP", "Rust", "Go", "Kotlin", "Bash", "Assembly", "VHDL"],
-    askMeAbout: ["Cybersecurity", "Pentesting", "Cryptography", "Fullstack Dev", "Low-level Programming"],
-    technologies: {
-        languages: ["TypeScript", "JS", "Python", "C/C++", "PHP", "Rust", "Go", "Kotlin", "Bash", "Assembly", "VHDL"],
-        backEnd: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "SQL"],
-        tools: ["Git", "Postman", "Docker"],
-        web: ["HTML", "CSS"]
-    },
-    currentFocus: "Cybersecurity & Pentesting 🛡️",
-    funFact: "I am a League of Legends abuser 🎮"
-};
-```
+<br/>
 
-## 👩🏻‍💻 Tech Stack
+---
 
-### 🛠 Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/bash-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>  
-</p>
-
-### 🌐 Frameworks & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/mysql-%23000.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
-</p> 
-
-### ⚙️ Infrastructure & Basics
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nciibi/Nciibi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<h4 align="center">Made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/nciibi">Nciibi</a></h4>

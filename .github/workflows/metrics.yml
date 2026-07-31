@@ -45,7 +45,7 @@ jobs:
             filename: .github/assets/metrics-repository.svg
             token: ${{ secrets.METRICS_TOKEN }}
             committer_token: ${{ secrets.GITHUB_TOKEN }}
-            user: Andrew-Velox
+            user: Nciibi
             template: classic
             base: ""
             config_timezone: Asia/Dhaka

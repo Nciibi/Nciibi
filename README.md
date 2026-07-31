@@ -1,16 +1,21 @@
-<img align='right' width="260" src='.github/assets/kenkankei_cmp.png'>
-
 <p align="center">
-  <br/><br/>
-  <img src='https://count.getloli.com/@Nciibi?name=Nciibi&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
-  <img src=".github/assets/stats.svg?raw=true" width="400px"/>
-  <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=nciibi&count_private=true&theme=midnight-purple&hide_border=true" width="400px"/>
-  <img width="400px" src=".github/assets/metrics-stats.svg?raw=true" />
-  <img width="400px" src=".github/assets/metrics-repository.svg?raw=true" />
-  <img width="400px" src=".github/assets/metrics-activity.svg?raw=true" />
+  <img src=".github/assets/stats.svg?raw=true" width="49%" />
+  <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=nciibi&count_private=true&theme=midnight-purple&hide_border=true" width="49%" />
 </p>
 
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=Nciibi&theme=high-contrast&hide_border=true&area=true" />
+<p align="center">
+  <img src=".github/assets/metrics-stats.svg?raw=true" width="49%" />
+  <img src=".github/assets/metrics-repository.svg?raw=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src=".github/assets/metrics-activity.svg?raw=true" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nciibi&theme=high-contrast&hide_border=true&area=true" width="98%" />
+</p>
+
 <br clear="both" />
 
 ---

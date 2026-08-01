@@ -167,3 +167,11 @@
 </table>
 
 <br/>
+
+---
+
+<h4 align="center">Made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/Nciibi">Nciibi</a></h4>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=120&section=footer" width="100%"/>
+</p>

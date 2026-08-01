@@ -168,10 +168,6 @@
 
 <br/>
 
----
-
-<h4 align="center">Made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/Nciibi">Nciibi</a></h4>
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXUwdXloNHloOTJobGZqeXA4eHFnZmh0dHAzdTVoOGloZWhzamFkYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5e25aUTZPcI94uMZgv/giphy.gif" width="100%" />
 </p>

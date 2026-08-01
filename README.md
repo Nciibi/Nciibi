@@ -122,7 +122,3 @@
 </table>
 
 <br/>
-
----
-
-<h4 align="center">Made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/nciibi">Nciibi</a></h4>

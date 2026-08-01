@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDR5cDA0dDhzMmZnNjUxMjhjZXJrYmowZGw4dHc1dGp3MGxmdjBlbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WjubYDzkPDMiVg8Zn2/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
   <img src=".github/assets/metrics-stats.svg?raw=true" width="49%" />
   <img src=".github/assets/metrics-repository.svg?raw=true" width="49%" />
 </p>

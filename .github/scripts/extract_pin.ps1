@@ -1,21 +1,21 @@
-$headers = @{
-    'User-Agent' = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-    'Referer' = 'https://www.pinterest.com/'
-}
+$c = Get-Content 'C:\Users\ncibi\.gemini\antigravity-ide\brain\a7a8622d-0f29-42c5-b50a-c7820374f6f6\.system_generated\steps\447\content.md' -Raw
 
-$response = Invoke-WebRequest -Uri 'https://www.pinterest.com/pin/771593348701911234/' -Headers $headers -UseBasicParsing
+# og:image
+$m = [regex]::Matches($c, 'og:image[^>]+content="([^"]+)"')
+Write-Output "=== OG:IMAGE ==="
+foreach ($x in $m) { Write-Output $x.Groups[1].Value }
 
-# Search for video URLs
-$videoMatches = [regex]::Matches($response.Content, '(https://v1\.pinimg\.com[^"'']+\.mp4)')
-Write-Output "=== VIDEO URLs ==="
-foreach ($m in $videoMatches) { Write-Output $m.Value }
+# video URLs
+$v = [regex]::Matches($c, '(https://v1\.pinimg\.com[^\s"]+)')
+Write-Output "`n=== VIDEO ==="
+foreach ($x in $v) { Write-Output $x.Value }
 
-# Search for GIF URLs
-$gifMatches = [regex]::Matches($response.Content, '(https://i\.pinimg\.com[^"'']+\.gif)')
-Write-Output "`n=== GIF URLs ==="
-foreach ($m in $gifMatches) { Write-Output $m.Value }
+# GIF URLs
+$g = [regex]::Matches($c, '(https://i\.pinimg\.com[^\s"]*\.gif)')
+Write-Output "`n=== GIF ==="
+foreach ($x in $g) { Write-Output $x.Value }
 
-# Search for high-res image URLs
-$imgMatches = [regex]::Matches($response.Content, '(https://i\.pinimg\.com/originals/[^"'']+)')
-Write-Output "`n=== ORIGINALS URLs ==="
-foreach ($m in $imgMatches) { Write-Output $m.Value }
+# originals
+$o = [regex]::Matches($c, '(https://i\.pinimg\.com/originals/[^\s"]+)')
+Write-Output "`n=== ORIGINALS ==="
+foreach ($x in $o) { Write-Output $x.Value }

@@ -1,9 +1,4 @@
 <p align="center">
-  <img src=".github/assets/stats.svg?raw=true" width="49%" />
-  <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=nciibi&count_private=true&theme=midnight-purple&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
   <img src=".github/assets/metrics-stats.svg?raw=true" width="49%" />
   <img src=".github/assets/metrics-repository.svg?raw=true" width="49%" />
 </p>

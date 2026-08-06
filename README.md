@@ -49,8 +49,6 @@
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/m2m?style=flat-square&color=blue)](https://github.com/Nciibi/m2m/issues) [**m2m**](https://github.com/Nciibi/m2m) - m2m is a modern open-source peer-to-peer messaging application focused on privacy, security, and performance. It eliminates unnecessary centralized infrastructure while providing end-to-end encrypted messaging, secure key management, NAT traversal, and a good user experience. `Rust`
 
-- [![Issues](https://img.shields.io/github/issues/Nciibi/Nciibi?style=flat-square&color=blue)](https://github.com/Nciibi/Nciibi/issues) [**Nciibi**](https://github.com/Nciibi/Nciibi) - No description provided `N/A`
-
 - [![Issues](https://img.shields.io/github/issues/Nciibi/password-manager?style=flat-square&color=blue)](https://github.com/Nciibi/password-manager/issues) [**password-manager**](https://github.com/Nciibi/password-manager) - Zero-Knowledge CLI Password Manager `Rust`
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/phisher-hunter?style=flat-square&color=blue)](https://github.com/Nciibi/phisher-hunter/issues) [**phisher-hunter**](https://github.com/Nciibi/phisher-hunter) - phishing detection through novel, never-before-seen techniques `TypeScript`

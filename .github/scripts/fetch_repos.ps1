@@ -9,7 +9,7 @@ $repos = Invoke-RestMethod "https://api.github.com/users/$Owner/repos?per_page=1
 
 $lines = @()
 foreach ($r in $repos) {
-    if ($r.private -or $r.fork) { continue }
+    if ($r.private -or $r.fork -or $r.name -eq $Owner) { continue }
     $name = $r.name
     $desc = if ($r.description) { $r.description } else { 'No description provided' }
     $lang = if ($r.language) { $r.language } else { 'N/A' }

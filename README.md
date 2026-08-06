@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://media.tenor.com/C10Ba4gtO1oAAAAd/cyber.gif" width="100%" />
 </p>
 

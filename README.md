@@ -15,6 +15,8 @@
 
 ## Featured Projects
 
+<!-- PROJECTS:START -->
+
 - [![Issues](https://img.shields.io/github/issues/Nciibi/m2m?style=flat-square&color=blue)](https://github.com/Nciibi/m2m/issues) [**m2m**](https://github.com/Nciibi/m2m) - m2m is a modern open-source peer-to-peer messaging application focused on privacy, security, and performance. `Rust`
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/AIOS?style=flat-square&color=blue)](https://github.com/Nciibi/AIOS/issues) [**AIOS**](https://github.com/Nciibi/AIOS) - No description provided `Rust`
@@ -58,6 +60,8 @@
 - [![Issues](https://img.shields.io/github/issues/Nciibi/pic_enhancer?style=flat-square&color=blue)](https://github.com/Nciibi/pic_enhancer/issues) [**pic_enhancer**](https://github.com/Nciibi/pic_enhancer) - No description provided `Python`
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/picture-downloader-and-metadata-viewer?style=flat-square&color=blue)](https://github.com/Nciibi/picture-downloader-and-metadata-viewer/issues) [**picture-downloader-and-metadata-viewer**](https://github.com/Nciibi/picture-downloader-and-metadata-viewer) - No description provided `Python`
+
+<!-- PROJECTS:END -->
 
 ---
 

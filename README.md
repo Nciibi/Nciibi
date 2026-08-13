@@ -27,6 +27,8 @@
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/basic-surface-layer-keylogger?style=flat-square&color=blue)](https://github.com/Nciibi/basic-surface-layer-keylogger/issues) [**basic-surface-layer-keylogger**](https://github.com/Nciibi/basic-surface-layer-keylogger) - An educational keystroke logging project built in Python and Rust, `Makefile`
 
+- [![Issues](https://img.shields.io/github/issues/Nciibi/bomb-file?style=flat-square&color=blue)](https://github.com/Nciibi/bomb-file/issues) [**bomb-file**](https://github.com/Nciibi/bomb-file) - No description provided `Python`
+
 - [![Issues](https://img.shields.io/github/issues/Nciibi/chronam?style=flat-square&color=blue)](https://github.com/Nciibi/chronam/issues) [**chronam**](https://github.com/Nciibi/chronam) - Chronam is a high-performance, cross-platform VHDL development environment. It pairs a VS Code extension for interactive editing and waveform viewing with a standalone Rust CLI for build automation, simulation `TypeScript`
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/cli-pic-gen?style=flat-square&color=blue)](https://github.com/Nciibi/cli-pic-gen/issues) [**cli-pic-gen**](https://github.com/Nciibi/cli-pic-gen) - CLI-PIC-GEN allows you to transform standard images into terminal-friendly masterpieces `Python`

@@ -123,11 +123,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.62492659536008" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="157.62492659536008" y="0" width="117.34767804274132" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="274.9726046381014" y="0" width="106.74367623046479" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="381.7162808685662" y="0" width="51.380441006628075" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="433.09672187519425" y="0" width="26.90327812480573" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="154.04500795720926" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="154.04500795720926" y="0" width="114.76670231410975" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="268.81171027131904" y="0" width="114.68252127570689" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="383.49423154702595" y="0" width="50.213507562984205" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="433.7077391100101" y="0" width="26.292260889989887" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -139,18 +139,18 @@
                                 Python
                             </div>
                             <small>
-                                <div>34.27%</div>
+                                <div>33.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Rust
+                                Kotlin
                             </div>
                             <small>
-                                <div>23.21%</div>
+                                <div>24.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -161,7 +161,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>5.85%</div>
+                                <div>5.72%</div>
                             </small>
                         </div>
                     </section>
@@ -169,12 +169,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Kotlin
+                                Rust
                             </div>
                             <small>
-                                <div>25.51%</div>
+                                <div>24.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -185,7 +185,7 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>11.17%</div>
+                                <div>10.92%</div>
                             </small>
                         </div>
                     </section>

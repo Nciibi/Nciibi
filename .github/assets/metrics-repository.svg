@@ -123,11 +123,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="152.4841724207084" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="152.4841724207084" y="0" width="118.26472153951174" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="270.74889396022013" y="0" width="113.52051961790332" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="384.2694135781235" y="0" width="49.704727511906974" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="433.97414109003046" y="0" width="26.025858909969557" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="152.37181336706422" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="152.37181336706422" y="0" width="118.51653162494617" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="270.8883449920104" y="0" width="113.4368712106557" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="384.32521620266607" y="0" width="49.66810222774652" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="433.9933184304126" y="0" width="26.006681569587414" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -139,7 +139,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>33.15%</div>
+                                <div>33.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -150,7 +150,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>24.68%</div>
+                                <div>24.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -161,7 +161,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>5.66%</div>
+                                <div>5.65%</div>
                             </small>
                         </div>
                     </section>
@@ -174,7 +174,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>25.71%</div>
+                                <div>25.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -185,7 +185,7 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>10.81%</div>
+                                <div>10.8%</div>
                             </small>
                         </div>
                     </section>

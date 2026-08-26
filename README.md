@@ -21,6 +21,8 @@
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/AIOS?style=flat-square&color=blue)](https://github.com/Nciibi/AIOS/issues) [**AIOS**](https://github.com/Nciibi/AIOS) - AIOS (Artificial Intelligence Operating System) is a constitutional operating system for autonomous AI agents. `Rust`
 
+- [![Issues](https://img.shields.io/github/issues/Nciibi/allox?style=flat-square&color=blue)](https://github.com/Nciibi/allox/issues) [**allox**](https://github.com/Nciibi/allox) - No description provided `Rust`
+
 - [![Issues](https://img.shields.io/github/issues/Nciibi/arm-driver-exploit?style=flat-square&color=blue)](https://github.com/Nciibi/arm-driver-exploit/issues) [**arm-driver-exploit**](https://github.com/Nciibi/arm-driver-exploit) - No description provided `N/A`
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/auth-expressjs-temp?style=flat-square&color=blue)](https://github.com/Nciibi/auth-expressjs-temp/issues) [**auth-expressjs-temp**](https://github.com/Nciibi/auth-expressjs-temp) - A production-ready authentication & authorization server with JWT rotation, RBAC, QR code login, MFA, Google OAuth, Redis-powered registration store, and a full image processing pipeline `JavaScript`

@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/C10Ba4gtO1oAAAAd/cyber.gif" width="100%" />
 </p>
 
-<p align="center"> 
+<p align="center">  
   <img src=".github/assets/metrics-stats.svg?raw=true" width="49%" />
   <img src=".github/assets/metrics-repository.svg?raw=true" width="49%" />
 </p>

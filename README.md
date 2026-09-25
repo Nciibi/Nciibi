@@ -65,7 +65,7 @@
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/picture-downloader-and-metadata-viewer?style=flat-square&color=blue)](https://github.com/Nciibi/picture-downloader-and-metadata-viewer/issues) [**picture-downloader-and-metadata-viewer**](https://github.com/Nciibi/picture-downloader-and-metadata-viewer) - A powerful Python tool for downloading images, extracting detailed metadata including EXIF data and GPS information, and modifying or creating custom metadata. `Python`
 
-- [![Issues](https://img.shields.io/github/issues/Nciibi/portfolio?style=flat-square&color=blue)](https://github.com/Nciibi/portfolio/issues) [**portfolio**](https://github.com/Nciibi/portfolio) - No description provided `CSS`
+- [![Issues](https://img.shields.io/github/issues/Nciibi/portfolio?style=flat-square&color=blue)](https://github.com/Nciibi/portfolio/issues) [**portfolio**](https://github.com/Nciibi/portfolio) - No description provided `JavaScript`
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/seagles?style=flat-square&color=blue)](https://github.com/Nciibi/seagles/issues) [**seagles**](https://github.com/Nciibi/seagles) - Seagles discovers every IoT device on your network, scans them for real CVEs, tests for default credentials (admin/admin, root/root — the ones botnets use), analyzes firmware for malware indicators, and scores each device's risk from 0 to 10. When something is wrong, you know immediately. `Go`
 

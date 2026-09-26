@@ -21,7 +21,7 @@
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/AIOS?style=flat-square&color=blue)](https://github.com/Nciibi/AIOS/issues) [**AIOS**](https://github.com/Nciibi/AIOS) - AIOS (Artificial Intelligence Operating System) is a constitutional operating system for autonomous AI agents. `Rust`
 
-- [![Issues](https://img.shields.io/github/issues/Nciibi/allox?style=flat-square&color=blue)](https://github.com/Nciibi/allox/issues) [**allox**](https://github.com/Nciibi/allox) - No description provided `Rust`
+- [![Issues](https://img.shields.io/github/issues/Nciibi/allox?style=flat-square&color=blue)](https://github.com/Nciibi/allox/issues) [**allox**](https://github.com/Nciibi/allox) - Pure-Rust general-purpose allocator with thread caches, zero dependencies and no C toolchain. Wins 21/22 workloads vs mimalloc/snmalloc/glibc. Windows, Linux, macOS, wasm32, no_std. `Rust`
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/arm-driver-exploit?style=flat-square&color=blue)](https://github.com/Nciibi/arm-driver-exploit/issues) [**arm-driver-exploit**](https://github.com/Nciibi/arm-driver-exploit) - No description provided `C`
 

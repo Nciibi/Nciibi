@@ -43,6 +43,8 @@
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/currency-exchancher-dart?style=flat-square&color=blue)](https://github.com/Nciibi/currency-exchancher-dart/issues) [**currency-exchancher-dart**](https://github.com/Nciibi/currency-exchancher-dart) - A clean, modern, and beginner-friendly currency converter application built with Flutter. This app allows users to perform real-time conversions between major global currencies using a sleek Material Design 3 interface. `Dart`
 
+- [![Issues](https://img.shields.io/github/issues/Nciibi/hft-engine?style=flat-square&color=blue)](https://github.com/Nciibi/hft-engine/issues) [**hft-engine**](https://github.com/Nciibi/hft-engine) - No description provided `C++`
+
 - [![Issues](https://img.shields.io/github/issues/Nciibi/hider?style=flat-square&color=blue)](https://github.com/Nciibi/hider/issues) [**hider**](https://github.com/Nciibi/hider) - A unified CLI, web dashboard, and C2 framework for metadata manipulation, steganography, payload delivery, and post-exploitation — built for penetration testers and security researchers. `Python`
 
 - [![Issues](https://img.shields.io/github/issues/Nciibi/image_investigator?style=flat-square&color=blue)](https://github.com/Nciibi/image_investigator/issues) [**image_investigator**](https://github.com/Nciibi/image_investigator) - A high-performance Desktop application designed for cybersecurity investigators and OSINT analysts. This tool combines Advanced EXIF Metadata Analysis, GPT-4o Vision Geolocation, and Multi-Engine Reverse Image Searching into a single, professional dashboard. `Python`
